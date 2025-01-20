@@ -14,6 +14,5 @@ Passionate about merging **health sciences** and **technology** to create impact
 I am constantly learning and exploring the latest advancements in **machine learning**, **biostatistics**, and their applications in medicine. I enjoy collaborating on interdisciplinary projects and contributing to open-source initiatives.
 
 ## 🌐 **Find Me Online**  
-- 💻 [GitHub Repository](https://github.com/ijuarez24)  
-- 🖇️ [LinkedIn Profile](https://www.linkedin.com/in/inmaculadajuarez)  
+- 🖇️ [LinkedIn Profile](https://www.linkedin.com/in/inmaculadajuarez) 
 - 📄 [Publications](https://github.com/ijuarez24/publications)  
