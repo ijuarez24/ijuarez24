@@ -7,7 +7,7 @@ Passionate about merging **health sciences** and **technology** to create impact
 
 ## 🛠️ **Technical Expertise**  
 - **Programming Languages:** Python, R, SQL.  
-- **Tools:** Git/GitHub, statistical modeling, and machine learning frameworks, like Tensorflow and scikit.  
+- **Tools:** Git/GitHub, statistical modeling, and machine learning frameworks, like Tensorflow and Scikit.  
 - **Languages:** Spanish (Native), English (C1), French (B1), learning German.  
 
 ## 📚 **My Interests**  
