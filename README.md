@@ -11,11 +11,12 @@ Passionate about merging **health sciences** and **technology** to create impact
 - **Languages:** Spanish (Native), English (C1), French (B1), German (A1, currently learning).
 
 ## 🖇️ **Projects**
-[Master's Thesis in Bioinformatics: Identification of clinical biomarkers in colorectal cancer](https://github.com/ijuarez24/clinical-biomarkers-identification-project)
+[Master's Thesis in Bioinformatics: Identification of Clinical Biomarkers in Colorectal Cancer](https://github.com/ijuarez24/clinical-biomarkers-identification-project)
 
 ## 📚 **My Interests**  
 I am constantly learning and exploring the latest advancements in **machine learning**, **biostatistics**, and their applications in medicine. I enjoy collaborating on interdisciplinary projects and contributing to open-source initiatives.
 
 ## 🌐 **Find Me Online**  
-- [LinkedIn Profile](https://www.linkedin.com/in/inmaculadajuarez) 
+- [LinkedIn Profile](https://www.linkedin.com/in/inmaculadajuarez)
+- [Email](mailto:inma.juarez24@gmail.com)  
 - [Publications](https://github.com/ijuarez24/publications)  
