@@ -11,8 +11,8 @@ Passionate about merging **health sciences** and **technology** to create impact
 - **Languages:** Spanish (Native), English (C1), French (B1), German (A1, currently learning).
 
 ## 🖇️ **Projects**
-[Master's Thesis in Bioinformatics: Identification of Clinical Biomarkers in Colorectal Cancer](https://github.com/ijuarez24/clinical-biomarkers-identification-project)
-[Draw molecules and chemical compounds](https://github.com/ijuarez24/draw-molecules-and-chemical-compounds)
+- [Master's Thesis in Bioinformatics: Identification of Clinical Biomarkers in Colorectal Cancer](https://github.com/ijuarez24/clinical-biomarkers-identification-project)
+- [Draw molecules and chemical compounds](https://github.com/ijuarez24/draw-molecules-and-chemical-compounds)
 
 ## 📚 **My Interests**  
 I am constantly learning and exploring the latest advancements in **machine learning**, **biostatistics**, and their applications in medicine. I enjoy collaborating on interdisciplinary projects and contributing to open-source initiatives.
